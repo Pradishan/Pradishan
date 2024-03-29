@@ -3,7 +3,7 @@
 <!--END_SECTION:TITLE-->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Under%20Graduvate,Student;Full+Stack+Developer;DS%20|%20AI%20|%20ML%20|%20cyber%20security%20Enthusiast;Graphic%20and%20UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 <!--START_SECTION:SUBTITLE-->
 ### <p align = left>I'm a passionate full-stack web developer from Sri Lanka. With a knack for programming and UI/UX development, I thrive on challenges and continuous learning. I love exploring new technologies and embracing failures as valuable lessons. Beyond coding, I believe in giving back to society through volunteering. My goal is to contribute solutions that benefit humanity, staying adaptable and updated along the way. Let's connect and collaborate to make a positive impact together!</p>
