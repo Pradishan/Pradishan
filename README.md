@@ -62,7 +62,7 @@
 
 <!--START_SECTION:SOCIAL-->
 ## <p align = left> 🌏 	Connect with me </p>
-<div align = left>
+<div align = center>
 <a href=https://facebook.com/pradeesharoon ><img src="https://img.shields.io/badge/facebook-pradeesharoon-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
                 alt=facebook /></a> &ensp;
 <a href=https://instagram.com/pradeesharoon ><img src="https://img.shields.io/badge/instagram-pradeesharoon-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" 
