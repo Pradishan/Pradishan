@@ -2,6 +2,9 @@
 # <p align = center>Hey there, I'm Pradishan, but you can call me Pradi! &ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "pradishan" width="35"></p>
 <!--END_SECTION:TITLE-->
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+
 <!--START_SECTION:SUBTITLE-->
 ### <p align = left>I'm a passionate full-stack web developer from Sri Lanka. With a knack for programming and UI/UX development, I thrive on challenges and continuous learning. I love exploring new technologies and embracing failures as valuable lessons. Beyond coding, I believe in giving back to society through volunteering. My goal is to contribute solutions that benefit humanity, staying adaptable and updated along the way. Let's connect and collaborate to make a positive impact together!</p>
 <!--END_SECTION:SUBTITLE-->
@@ -94,11 +97,5 @@
 </div>
 <!--END_SECTION:README-STATS-LANGUAGES--><br/>
 
-<!--START_SECTION:STREAK-STATS-->
-<div align = "left">
-    <img src = "https://streak-stats.demolab.com/?user=pradishan&theme=default&hide_border=false" alt = "pradishan"/> 
-</div>
-<!--END_SECTION:STREAK-STATS--><br/>
 
 
-<!-- Created with CreateME profile readme generator-->
