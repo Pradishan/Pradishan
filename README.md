@@ -1,6 +1,12 @@
 <!--START_SECTION:TITLE-->
-# <p align = center>Hey there, I'm Pradishan, but you can call me Pradi! &ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "pradishan" width="35"></p>
+# <p align = center>Hey there, I'm Pradishan, &ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "pradishan" width="35">
+</p>
 <!--END_SECTION:TITLE-->
+
+
+## <p align = center>but you can call me Pradi!
+</p>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate;Full+Stack+Developer;Graphic%20and%20UI/UX%20Designer;DS%20|%20AI%20|%20ML%20|%20cybersecurity%20Enthusiast;Adaptability%20is%20the%20key&center=true&width=500&height=50"></a>
