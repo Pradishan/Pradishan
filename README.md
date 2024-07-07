@@ -1,15 +1,12 @@
 <!--START_SECTION:TITLE-->
 
-# <p align = center>Hey there, I'm **Pradi**, &ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "pradishan" width="35">
+# <p align = center>Hey there, I'm **Pradi**, &ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "pradishan" width="35"></p>
 
-</p>
 <!--END_SECTION:TITLE-->
 
-</p>
-
-<p align="center">
+<p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&random=false&width=400&lines=Undergraduate;Full+Stack+Developer;Graphic+%26+UI%2FUX+Designer;DS+%7C+AI+%7C+ML+Enthusiast;Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
-
+</p>
 <!--START_SECTION:SUBTITLE-->
 
 ### <p align = left style="font-family: Roboto;" >I'm a passionate full-stack web developer from Sri Lanka. With a knack for programming and UI/UX development, I thrive on challenges and continuous learning. I love exploring new technologies and embracing failures as valuable lessons. Beyond coding, I believe in giving back to society through volunteering. My goal is to contribute solutions that benefit humanity, staying adaptable and updated along the way. Let's connect and collaborate to make a positive impact together!</p>
