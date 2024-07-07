@@ -12,7 +12,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate;Full+Stack+Developer;Graphic%20and%20UI/UX%20Designer;DS%20|%20AI%20|%20ML%20|%20cybersecurity%20Enthusiast;Adaptability%20is%20the%20key&center=true&width=500&height=50"></a>
 
 <!--START_SECTION:SUBTITLE-->
-### <p align = left>I'm a passionate full-stack web developer from Sri Lanka. With a knack for programming and UI/UX development, I thrive on challenges and continuous learning. I love exploring new technologies and embracing failures as valuable lessons. Beyond coding, I believe in giving back to society through volunteering. My goal is to contribute solutions that benefit humanity, staying adaptable and updated along the way. Let's connect and collaborate to make a positive impact together!</p>
+> ### <p align = left>I'm a passionate full-stack web developer from Sri Lanka. With a knack for programming and UI/UX development, I thrive on challenges and continuous learning. I love exploring new technologies and embracing failures as valuable lessons. Beyond coding, I believe in giving back to society through volunteering. My goal is to contribute solutions that benefit humanity, staying adaptable and updated along the way. Let's connect and collaborate to make a positive impact together!</p>
 <!--END_SECTION:SUBTITLE-->
 
 <!--START_SECTION:SKILL-->
@@ -65,7 +65,7 @@
 <img src="https://img.shields.io/badge/figma-%2300d47b.svg?style=flat-square&logo=figma&logoColor=white" alt=figma /> &ensp;
 <img src="https://img.shields.io/badge/postman-%23ef5b25.svg?style=flat-square&logo=postman&logoColor=white" alt=postman /> &ensp;
 <img src="https://img.shields.io/badge/canva-%236a3be4.svg?style=flat-square&logo=canva&logoColor=white" alt=canva /> &ensp;
-><img src="https://img.shields.io/badge/wordpress-%233473d9.svg?style=flat-square&logo=wordpress&logoColor=white" alt=wordpress /> &ensp;
+<img src="https://img.shields.io/badge/wordpress-%233473d9.svg?style=flat-square&logo=wordpress&logoColor=white" alt=wordpress /> &ensp;
 </div>
 <!--END_SECTION:SKILL--><br/>
 
