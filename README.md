@@ -65,7 +65,7 @@
 <img src="https://img.shields.io/badge/figma-%2300d47b.svg?style=flat-square&logo=figma&logoColor=white" alt=figma /> &ensp;
 <img src="https://img.shields.io/badge/postman-%23ef5b25.svg?style=flat-square&logo=postman&logoColor=white" alt=postman /> &ensp;
 <img src="https://img.shields.io/badge/canva-%236a3be4.svg?style=flat-square&logo=canva&logoColor=white" alt=canva /> &ensp;
-<img src="https://img.shields.io/badge/wordpress-%233473d9.svg?style=flat-square&logo=wordpress&logoColor=white" alt=wordpress /> &ensp;
+><img src="https://img.shields.io/badge/wordpress-%233473d9.svg?style=flat-square&logo=wordpress&logoColor=white" alt=wordpress /> &ensp;
 </div>
 <!--END_SECTION:SKILL--><br/>
 
