@@ -1,22 +1,27 @@
 <!--START_SECTION:TITLE-->
-# <p align = center>Hey there, I'm Pradishan, &ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "pradishan" width="35">
+
+# <p align = center>Hey there, I'm **Pradi**, &ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "pradishan" width="35">
+
 </p>
 <!--END_SECTION:TITLE-->
 
-
-## <p align = center>but you can call me Pradi!
 </p>
 
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate;Full+Stack+Developer;Graphic%20and%20UI/UX%20Designer;DS%20|%20AI%20|%20ML%20|%20cybersecurity%20Enthusiast;Adaptability%20is%20the%20key&center=true&width=500&height=50"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&random=false&width=500&lines=Undergraduate;Full+Stack+Developer;Graphic+%26+UI%2FUX+Designer;DS+%7C+AI+%7C+ML+Enthusiast;Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
 
 <!--START_SECTION:SUBTITLE-->
- ### <p align = left>I'm a passionate full-stack web developer from Sri Lanka. With a knack for programming and UI/UX development, I thrive on challenges and continuous learning. I love exploring new technologies and embracing failures as valuable lessons. Beyond coding, I believe in giving back to society through volunteering. My goal is to contribute solutions that benefit humanity, staying adaptable and updated along the way. Let's connect and collaborate to make a positive impact together!</p>
+
+### <p align = left style="font-family: Roboto;" >I'm a passionate full-stack web developer from Sri Lanka. With a knack for programming and UI/UX development, I thrive on challenges and continuous learning. I love exploring new technologies and embracing failures as valuable lessons. Beyond coding, I believe in giving back to society through volunteering. My goal is to contribute solutions that benefit humanity, staying adaptable and updated along the way. Let's connect and collaborate to make a positive impact together!</p>
+
 <!--END_SECTION:SUBTITLE-->
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=15&pause=1000&color=808080&random=false&width=435&lines=Adoptability+is+the+key" alt="Typing SVG" /></a>
+
 <!--START_SECTION:SKILL-->
-## <p align = left> 🖥️ 	Tech Stack </p>
+
+## <p align = left> 🖥️ Tech Stack </p>
+
 <div align = left>
 <img src="https://img.shields.io/badge/c-%23555555.svg?style=flat-square&logo=c&logoColor=white" alt=c /> &ensp;
 <img src="https://img.shields.io/badge/c++-%23f34b7d.svg?style=flat-square&logo=cplusplus&logoColor=white" alt=c++ /> &ensp;
@@ -70,7 +75,9 @@
 <!--END_SECTION:SKILL--><br/>
 
 <!--START_SECTION:SOCIAL-->
-## <p align = left> 🌏 	Connect with me </p>
+
+## <p align = left> 🌏 Connect with me </p>
+
 <div align = center>
 <a href=https://facebook.com/pradeesharoon ><img src="https://img.shields.io/badge/facebook-pradeesharoon-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
                 alt=facebook /></a> &ensp;
@@ -108,8 +115,3 @@
     <img src = "https://streak-stats.demolab.com/?user=pradishan&theme=default&hide_border=false" alt = "pradishan"/> 
 </div>
 <!--END_SECTION:STREAK-STATS--><br/>
-
-
-
-
-
