@@ -103,7 +103,9 @@
 
 <!--START_SECTION:README-STATS-LANGUAGES-->
 <div align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pradishan&langs_count=8&layout=compact&theme=default&hide_border=false" alt = "pradishan"/> 
+  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradishan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+   
 </div>
 <!--END_SECTION:README-STATS-LANGUAGES--><br/>
 
