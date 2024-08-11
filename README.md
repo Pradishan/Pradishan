@@ -104,7 +104,7 @@
 <!--START_SECTION:README-STATS-LANGUAGES-->
 <div align = "center">
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradishan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradishan&layout=donut-vertical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
    
 </div>
 <!--END_SECTION:README-STATS-LANGUAGES--><br/>
