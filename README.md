@@ -94,23 +94,3 @@
     <img src = "https://komarev.com/ghpvc/?username=pradishan&color=blue&style=flat" alt = "pradishan"/> 
 </div>
 <!--END_SECTION:PROFILE-VIEWS--><br/>
-
-<!--START_SECTION:README-STATS-->
-<div align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=pradishan&show_icons=true&theme=default&hide_border=false&include_all_commits=false&count_private=true" alt = "pradishan"/> 
-</div>
-<!--END_SECTION:README-STATS--><br/>
-
-<!--START_SECTION:README-STATS-LANGUAGES-->
-<div align = "center">
-  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradishan&layout=donut-vertical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-   
-</div>
-<!--END_SECTION:README-STATS-LANGUAGES--><br/>
-
-<!--START_SECTION:STREAK-STATS-->
-<div align = "center">
-    <img src = "https://streak-stats.demolab.com/?user=pradishan&theme=default&hide_border=false" alt = "pradishan"/> 
-</div>
-<!--END_SECTION:STREAK-STATS--><br/>
